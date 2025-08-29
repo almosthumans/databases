@@ -1,0 +1,22 @@
+## Lesson Management System
+- user
+- courses
+- lessons
+    - id
+    - type
+- enrollments
+- transactions
+    - id
+    - user id
+    - course id
+    - payment gateway
+    - amount
+    - date
+- coupon
+    - code
+    - discount type
+    - value
+    - exp time
+    - start time
+- category
+- 

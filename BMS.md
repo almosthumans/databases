@@ -1,0 +1,23 @@
+## Book Management System
+- users
+    - id
+    - name
+    - number
+    - role: [admin, user]
+- books
+    - id
+    - name
+    - ISB number
+    - author
+    - price
+- authors
+    - id
+    - name
+    - socials
+- bookrecords
+    - book id
+    - user id
+    - name
+    - issue time
+    - return time
+    - isReturned
